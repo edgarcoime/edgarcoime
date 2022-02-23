@@ -43,16 +43,15 @@
 
 <br />
 ---
-
 <details>
   <summary>:zap: Github Stats</summary>
 
   ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarcoime&count_private=true&show_icons=true&theme=onedark)
 </details>
+<br/>
 
-<br />
+
 ---
-
 <details>
   <summary>:zap: Github Recent activity</summary>
 
@@ -60,9 +59,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<>
-
+<br/>
 
 [website]: https://www.edgarcoime.com/
 [linkedin]: https://www.linkedin.com/in/edgarcoime/
