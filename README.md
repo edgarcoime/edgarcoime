@@ -42,6 +42,7 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="30px" />
 
 <br />
+
 ---
 <details>
   <summary>:zap: Github Stats</summary>
