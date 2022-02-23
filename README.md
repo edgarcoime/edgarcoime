@@ -41,10 +41,28 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next js" width="30px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="30px" />
 
+<br />
 ---
-![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarcoime&count_private=true&show_icons=true&theme=onedark)
 
-<br/>
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarcoime&count_private=true&show_icons=true&theme=onedark)
+</details>
+
+<br />
+---
+
+<details>
+  <summary>:zap: Github Recent activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+<>
+
 
 [website]: https://www.edgarcoime.com/
 [linkedin]: https://www.linkedin.com/in/edgarcoime/
