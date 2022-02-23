@@ -1,4 +1,4 @@
-# Hey there! My name's Edgar 🤓
+# Hey there! My name's Edgar 😎
 
 ## I am a Developer and avid reader!
 - 🥇 Check out my team's 1st place [Hackathon win][hackathon-icue]!
@@ -13,7 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
 </a>
 
-
 ### Some languages I know:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" />
@@ -25,6 +24,8 @@
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="30px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30px" />
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30px" />
+
+<br/>
 
 ### How about some tools and technologies as well:
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30px" />
