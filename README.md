@@ -5,7 +5,7 @@
 - 🌐 I'm currently working on my [website][website] coming soon
 - ☕ I'm currently drinking coffee probably... 
 - 🧑🎓 I'm in the final stretch of BCIT
-- 🥅 2022 Goals: Learn more AI/ML and contribute more to Open Source
+- 🥅 2025 Goals: Learn more AI/ML and contribute more to Open Source
 - 💥 Fun fact: I love keyboards and actually collect them ⌨️
 
 ### Connect with me:
